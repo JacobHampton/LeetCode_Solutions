@@ -22,9 +22,6 @@ public:
 };
 
 int main(){
-    Solution newSolution;
-    std::vector<int> priceExample{1,4,5,2,6};
-    newSolution.maxProfit(priceExample);
 
     return 0;
 }
